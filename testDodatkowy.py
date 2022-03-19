@@ -3,3 +3,5 @@ def dzielenie(dzielna, dzielnik):
         return # zakoncz funkcje nic nie zwracajac
     else:
         return dzielna / dzielnik
+
+print ("dziękuję")
